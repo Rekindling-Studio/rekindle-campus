@@ -1,1 +1,24 @@
-body { font-family: Arial; background: #f0f4f8; color: #333; text-align: center; padding: 40px; } nav a { margin: 10px; padding: 10px 20px; background: #005f73; color: white; text-decoration: none; border-radius: 8px; } nav a:hover { background: #0a9396; }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    text-align: center;
+    padding: 40px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+}
+nav a {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #005f73;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+nav a:hover {
+    background-color: #0a9396;
+}
